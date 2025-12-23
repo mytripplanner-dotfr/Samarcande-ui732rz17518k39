@@ -1,0 +1,115 @@
+{
+  "pays": "Ouzbékistan",
+  "drapeau": "🇺🇿",
+  "symbole": "🕌",
+  "titre": "Samarcande, la Perle de l'Orient",
+  "budget_total": "1150€",
+  "duree": "4 jours",
+  "temps_vol": "9h05 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion au Registan",
+      "legende": "Après un vol depuis Paris, installez-vous confortablement à Samarcande. La première soirée est dédiée à une douce découverte de la majestueuse Place du Registan, illuminée, pour une entrée en matière féerique et relaxante. Laissez-vous imprégner par l'atmosphère unique de cette ville historique.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international de Samarcande (SKD) et transfert vers votre hôtel. Profitez du trajet pour observer les premiers paysages ouzbeks.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3 étoiles. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>✨ Balade nocturne au Registan</strong>: Admirez la Place du Registan, cœur historique de Samarcande, sous les lumières du soir. Ses madrasas illuminées offrent un spectacle inoubliable et apaisant."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire avec Paris est de +3 heures en été et +4 heures en hiver. Prévoyez une adaptation douce pour cette première journée."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Splendeurs architecturales et saveurs locales",
+      "legende": "Plongez au cœur de l'histoire et de la culture de Samarcande avec une exploration approfondie de ses monuments emblématiques. La journée se poursuit par une immersion sensorielle au marché local, où les couleurs et les saveurs de l'Ouzbékistan vous attendent pour une expérience authentique et gourmande.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🏛️ Visite de la Place du Registan</strong>: Explorez les trois madrasas (Ulugbek, Sher-Dor et Tilla-Kari) en journée. Prenez le temps d'admirer les détails des mosaïques et la grandeur des lieux.",
+        "<strong>🕌 Mosquée Bibi-Khanym</strong>: Découvrez cette immense mosquée, l'une des plus grandes du monde islamique, et son histoire fascinante. Un lieu impressionnant par sa taille et sa beauté.",
+        "<strong>🛍️ Flânerie au Bazar de Siyob</strong>: Imprégnez-vous de l'ambiance locale en vous promenant dans ce marché coloré et animé. Goûtez aux fruits secs, aux épices et au pain traditionnel (non)."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👗",
+          "titre": "Code vestimentaire",
+          "texte": "Prévoyez des vêtements couvrants (épaules et genoux) pour la visite des sites religieux, par respect pour les coutumes locales."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✨",
+      "titre": "Nécropole sacrée et vue sur les étoiles",
+      "legende": "Cette journée vous emmène à travers des lieux empreints de spiritualité et d'histoire. La nécropole de Shah-i-Zinda offre une promenade paisible parmi des mausolées magnifiquement décorés, tandis que l'observatoire d'Ulugbek vous invite à contempler l'héritage scientifique de la ville. Une pause thé relaxante clôturera cette journée riche en découvertes.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🕊️ Nécropole de Shah-i-Zinda</strong>: Promenez-vous dans cette allée de mausolées aux faïences bleues et turquoise. C'est un lieu de pèlerinage et de grande beauté, propice à la contemplation.",
+        "<strong>🔭 Observatoire d'Ulugbek</strong>: Visitez les vestiges de l'observatoire du prince-astronome Ulugbek. Découvrez son histoire et son importance pour l'astronomie médiévale, avec une vue panoramique sur les environs.",
+        "<strong>☕ Pause détente dans un salon de thé</strong>: Profitez d'un moment de calme dans un salon de thé traditionnel. Dégustez un thé vert ou noir accompagné de douceurs locales, une expérience relaxante."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Conseil",
+          "texte": "La nécropole de Shah-i-Zinda implique quelques marches. Prévoyez des chaussures confortables pour profiter pleinement de la visite."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "✈️",
+      "titre": "Mausolée impérial et départ",
+      "legende": "Pour cette dernière journée, explorez le majestueux mausolée de Gour Emir, dernière demeure de Tamerlan, avant de vous offrir un dernier moment pour des souvenirs. La matinée est consacrée à une ultime immersion dans l'histoire de Samarcande, avant de prendre le chemin de l'aéroport pour votre vol retour vers Paris, emportant avec vous des souvenirs précieux de la Route de la Soie.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>👑 Mausolée de Gour Emir</strong>: Visitez ce chef-d'œuvre architectural, le tombeau de Tamerlan et de ses descendants. Admirez sa coupole cannelée et ses intérieurs richement décorés.",
+        "<strong>🎁 Derniers achats de souvenirs</strong>: Profitez des dernières heures pour acheter des souvenirs artisanaux, comme des céramiques, des soieries ou des miniatures, dans les boutiques locales.",
+        "<strong>✈️ Départ de Samarcande</strong>: Transfert à l'aéroport pour votre vol retour vers Paris, la tête remplie de souvenirs inoubliables de la Perle de l'Orient."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Négociez toujours les prix dans les bazars et les petites boutiques. C'est une pratique courante et attendue en Ouzbékistan."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 720 €/pers (A/R Paris-Samarcande)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (taxis locaux, transferts aéroport)", "symbole": "🚕" },
+    { "titre": "Budget repas:", "legende": "Environ 120 €/pers (30€/jour pour 4 jours, restaurants de gamme moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (3 nuits en hôtel 3 étoiles, base chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80 €/pers (entrées des sites, thé)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril-Mai", "symbole": "🌸" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Soum Ouzbek (UZS). Les cartes de crédit sont acceptées dans les grands hôtels et restaurants, mais prévoyez du liquide pour les marchés et petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est l'Ouzbek, mais le Russe est largement parlé. Quelques notions de Russe ou une application de traduction peuvent être utiles.", "symbole": "🗣️" },
+    { "titre": "Les températures peuvent être élevées en été (juin-août) et froides en hiver (décembre-février). Les printemps et automnes sont doux et agréables.", "symbole": "☀️" },
+    { "titre": "Un visa n'est pas requis pour les citoyens français pour un séjour de moins de 30 jours. Vérifiez toujours les dernières exigences avant le départ.", "symbole": "🛂" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Samarcande", "url": "https://www.kayak.fr/flights/CDG-SKD/2025-05-15/2025-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Ouzbékistan", "url": "https://uzbekistan.travel/fr/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Samarcande", "url": "https://www.accuweather.com/fr/uz/samarkand/325016/weather-forecast/325016", "symbole": "🌤️" },
+    { "legende": "Hébergements", "titre": "Hôtels à Samarcande", "url": "https://www.booking.com/city/uz/samarkand.fr.html", "symbole": "🏨" }
+  ]
+}
